@@ -1,0 +1,130 @@
+.Area-section{
+    height:550px;
+    background-color:  #F5FAFF;;
+}
+.Area-section>h1{
+    top:40px;
+    position: relative;
+}
+.Area-section>p{
+    top:30px;
+    position: relative;
+}
+.tick-one{
+    margin-right:400px;
+    margin-top:90px
+    
+}
+.tick-two{
+    margin-right:400px; 
+    margin-top: 20px;
+}
+
+.line-one{
+    margin-top:-30px;
+    margin-left:60px
+}
+.line-two,.line-three{
+margin-top:-30px
+}
+.line-two{
+    margin-left:125px
+}
+.line-three{
+    margin-left:-25px
+}
+
+
+
+
+.tick-four{
+    margin-right:550px;
+    margin-top:90px
+    
+}
+.tick-five{
+    margin-right:550px; 
+    margin-top: 20px;
+}
+
+.line-four{
+    margin-top:-30px;
+    margin-left:-85px
+}
+.line-five,.line-six{
+margin-top:-30px
+}
+.line-five{
+    margin-left:-95px
+}
+.line-six{
+    margin-left:25px
+}
+
+@media(max-width:780px){
+   .Area-section{
+    height:930px
+   }
+   .Area-section>h1{
+    font-size:25px;
+    margin-left:-10px;
+    margin-right:30px
+   }
+   .Area-section>p{
+    width:300px;
+    margin-left:10px
+   }
+
+   .tick-one{
+    margin-left:15px;
+    margin-top:90px
+    
+}
+.tick-two{
+    margin-left:15px;
+    margin-top: 20px;
+}
+
+.line-one{
+    margin-top:-30px;
+    margin-left:30px;
+    width:300px
+}
+.line-two,.line-three{
+margin-top:-30px;
+width:270px;
+margin-left: 50px;
+
+}
+
+
+
+
+
+.tick-four{
+    margin-left:15px;
+    margin-top:10px;
+    
+}
+.tick-five{
+    margin-left:15px;
+    margin-top: 20px;
+}
+
+.line-four{
+    margin-top:-30px;
+    margin-left:35px;
+    width:290px
+}
+.line-five,.line-six{
+margin-top:-30px
+}
+.line-five{
+    margin-left:45px;
+    width:290px
+}
+.line-six{
+    margin-left:35px;
+    width:290px
+}
+}

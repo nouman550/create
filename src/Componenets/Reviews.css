@@ -1,0 +1,122 @@
+.review-section {
+    height: 640px !important;
+}
+
+.review-section>h1 {
+    margin-top: 70px
+}
+
+.active-sect,
+.diamond,
+.night {
+    height: 420px !important;
+    margin-top: 40px;
+    width: 350px;
+    background: #FFFFFF;
+    border: 1px solid #D4E0EE;
+    border-radius: 15px;
+
+
+}
+
+.active-sect:hover,
+.diamond:hover,
+.night:hover {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(197, 211, 227, 0.25);
+    border-radius: 15px;
+}
+
+.active-sect {
+    margin-left: 110px;
+    border: 1px solid #D4E0EE !important;
+    border-radius: 15px !important
+}
+
+.diamond {
+    margin-left: 50px;
+    border: 1px solid #D4E0EE !important;
+    border-radius: 15px !important
+}
+
+.night {
+    margin-left: -10px;
+    border: 1px solid #D4E0EE !important;
+    border-radius: 15px !important
+}
+
+
+.active-sect>img,
+.diamond>img {
+    margin-top: 40px
+}
+
+.night>img {
+    margin-top: 50px
+}
+
+.active-sect>p,
+.diamond>p {
+    margin-top: 20px
+}
+
+.night>p {
+    margin-top: 50px;
+}
+
+.stars {
+    margin-top: -3px !important;
+    margin-left: 31px;
+    margin-right: 40px
+}
+
+.reviews {
+    font-family: 'Noto Sans' !important;
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #3486EB !important;
+    background: #FFFFFF !important;
+    border: 1px solid #3285EA !important;
+    border-radius: 5px !important;
+    margin-top: 15px !important;
+    height: 50px;
+    width: 211px;
+    text-transform: capitalize !important
+}
+
+.reviews:hover {
+    background: linear-gradient(180deg, #3385EA 0%, #3081E6 100%) !important;
+    border: 1px solid #3285EA;
+    box-shadow: 0px 3px 30px rgba(52, 134, 235, 0.22);
+    border-radius: 5px;
+    color: white !important
+}
+
+.line {
+    align-items: center;
+}
+
+@media(max-width:768px) {
+    .review-section {
+        height: 1500px !important;
+    }
+
+    .active-sect,
+    .diamond,
+    .night {
+        height: 420px !important;
+        margin-top: 30px;
+        width: 300px;
+        
+        margin-left:10px
+    }
+    .review-section>h1 {
+        font-size: 30px;
+        margin-right:30px
+    }
+}

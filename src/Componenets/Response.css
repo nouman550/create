@@ -1,0 +1,81 @@
+.response-sect{
+    height:300px;
+    background-color: #F5FAFF
+}
+.responses,.rate,.revenue{
+    height:146px;
+    width:400px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 50px rgba(49, 49, 49, 0.02);
+    border-radius: 8px;
+    margin-top:70px
+}
+.responses{
+    margin-left:50px
+}
+.rate{
+    margin-left:20px
+}
+.revenue{
+    margin-left:-10px
+}
+
+.symbols{
+    height:146px;
+    width:80px;
+}
+.symbols>div{
+    height:50px;
+    width:50px;
+    background-color: rgba(50, 132, 233,0.1);
+    border-radius: 50%;
+    margin-left:20px;
+    top:50px!important;
+    position:relative
+}
+.symbols>div>img{
+    margin-top:-20px!important;
+    position: relative!important;
+    margin-left: 20px;
+}
+
+.responses>h3,.revenue>h3,.rate>h3{
+    margin-top:-120px;
+}
+.responses>p,.rate>p{
+    margin-left:60px
+}
+.revenue>h3{
+    margin-left: 50px;
+
+}
+.revenue>p{
+    margin-left:60px!important
+}
+
+
+@media(max-width:780px){
+    .response-sect{
+        height:700px;
+        background-color: #F5FAFF
+    }
+    .responses,.rate,.revenue{
+        height:170px;
+        width:300px;
+        margin-top:50px;
+        margin-left:15px
+    }
+    .symbols>div{
+        height:50px;
+        width:50px;
+        margin-left:5px;
+        top:80px!important;
+        
+    }
+    .symbols>div>img{
+        margin-left: 5px;
+    }
+    .revenue>p{
+        margin-left:70px!important
+    }
+}

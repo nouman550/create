@@ -1,0 +1,209 @@
+.footer-main {
+    height: 450px;
+    background: linear-gradient(180deg, #3385EA 0%, #3081E6 100%);
+    ;
+}
+
+.footer-icons {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 110px
+}
+
+.face-footer {
+    width: 50px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.3);
+
+    border-radius: 50%;
+}
+
+.face-footer>a>img,
+.twitt-footer>a>img,
+.insta-footer>a>img,
+.mail-footer>a>img {
+    margin-top: 15px !important
+}
+
+.twitt-footer,
+.insta-footer,
+.mail-footer {
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+}
+
+.logo {
+    margin-top: 60px;
+    margin-left: -140px
+}
+
+.footer-content {
+    margin-left: -40px;
+    color: white;
+    line-height: 23px;
+    font-size: 16px;
+
+}
+
+.boston {
+    margin-left: 155px;
+    display: inline;
+}
+
+.service-menu,
+.company-menu,
+.tool-menu,
+.posts {
+    list-style: none;
+}
+
+.service-menu>li>a,
+.company-menu>li>a,
+.tool-menu>li>a,
+.posts>li>a {
+    text-decoration: none;
+    color: white;
+    border:none!important;
+    background: none!important;
+
+}
+
+.services,
+.company,
+.tools,
+.letter {
+    color: white;
+    margin-top: 60px
+}
+
+.blog {
+    color: white;
+}
+
+.services,
+.company {
+    margin-left: 30px
+}
+
+.service-menu>li:first-child,
+.company-menu>li:first-child,
+.tool-menu>li:first-child {
+    margin-top: 35px !important
+}
+
+.service-menu>li,
+.company-menu>li,
+.tool-menu>li,
+.posts>li {
+    margin-top: 20px
+}
+
+.email {
+    margin-left: 125px
+}
+
+.phone {
+    margin-left: -14px
+}
+
+.email>a,
+.phone>a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+    /* or 167% */
+
+    letter-spacing: 0.2px;
+}
+
+.subscribe {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #307EDE !important;
+
+    background-color: #FFFFFF !important;
+    border: 1px solid #FFFFFF !important;
+    border-radius: 5px !important;
+    height: 45px;
+    width: 120px;
+    margin-left: -125px !important
+}
+
+.subscribe:hover {
+    color: white !important;
+    background-color: #307EDE !important;
+}
+
+.mail-field {
+    height: 50px;
+    width: 300px;
+    background: #3182E7;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    margin-top:20px;
+    outline: none;
+    color:white
+}
+.mail-field::placeholder{
+    color:white;
+    padding-left: 20px!important;
+     font-size: 16px;
+}
+.below-footer{
+    height:60px;
+   background:  linear-gradient(180deg, #3385EA 0%, #3081E6 100%);
+   margin-top:-16px;
+   color:rgba(255, 255, 255, 0.3);
+border-top: 1px solid
+}
+.below-footer>p{
+    color:white!important
+}
+.below-footer>p>a{
+    color:white;
+    text-decoration: none;
+    border:none!important;
+    background: none!important;
+}
+
+.logo-link{
+    list-style: none;
+}
+
+
+@media(max-width:780px){
+    .footer-main{
+        height:1400px!important
+    }
+    .footer-icons {
+        margin-left: 30px
+    }
+    .logo {
+        margin-top: 50px;
+        margin-left: -240px
+    }
+    .footer-content {
+        margin-left:-145px;
+        margin-right:30px
+      
+    }
+    .mail-field{
+        margin-left:10px
+    }
+    .below-footer>p{
+        margin-left:-40px;
+        font-size:14px
+    }
+    
+}

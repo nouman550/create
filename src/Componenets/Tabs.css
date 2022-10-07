@@ -1,0 +1,109 @@
+.tabs{
+    height:900px
+}
+.tab-one{
+    margin-left:150px!important;
+    font-family: 'Noto Sans'!important;
+font-style: normal!important;
+font-weight: 400!important;
+font-size: 20px!important;
+line-height: 147.6%;
+/* identical to box height, or 37px */
+
+
+color: #6E7176!important;
+}
+.tab-two{
+    margin-left:80px!important;
+    font-family: 'Noto Sans'!important;
+font-style: normal!important;
+font-weight: 400!important;
+font-size: 20px!important;
+line-height: 147.6%;
+/* identical to box height, or 37px */
+
+
+color: #6E7176!important; 
+}
+.tab-three{
+    margin-left:80px!important;
+    font-family: 'Noto Sans'!important;
+font-style: normal!important;
+font-weight: 400!important;
+font-size: 20px!important;
+line-height: 147.6%;
+/* identical to box height, or 37px */
+
+
+color: #6E7176!important;
+}
+.tab-four{
+    margin-left:80px!important;
+    font-family: 'Noto Sans'!important;
+font-style: normal!important;
+font-weight: 400!important;
+font-size: 20px!important;
+line-height: 147.6%;
+/* identical to box height, or 37px */
+
+
+color: #6E7176!important;
+}
+
+
+
+.tab-one:focus,.tab-two:focus,.tab-three:focus,.tab-four:focus{
+    color:#2F81E6!important;
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 147.6%;
+}
+.tabs-content{
+    margin-left:130px!important;
+    margin-right:120px!important;
+    font-family: 'Noto Sans'!important;
+font-style: normal!important;
+font-weight: 400!important;
+font-size: 18px!important;
+line-height: 35px!important;
+/* or 194% */
+
+
+color: #263238;
+}
+.span-one{
+    margin-right:370px
+}
+
+.span-three{
+    margin-left:-210px!important
+}
+.span-four{
+    margin-left:-200px
+}
+.span-five{
+    margin-right:970px
+}
+.span-six{
+margin-right:380px
+}
+
+@media(max-width:780px){
+    .tabs{
+        height:3700px
+    }
+    .tab-one,.tab-two,.tab-three,.tab-four{
+        margin-left:10px!important
+    }
+    .tabs-content{
+        margin-left:20px!important
+    }
+    .tab-two{
+        top:750px;
+        left:50px!important;
+        width:300px;
+        position: relative;
+    }
+}

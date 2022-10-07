@@ -1,0 +1,82 @@
+.quality-section{
+    height:500px!important;
+}
+.quality-section>h1{
+    margin-top:50px;
+    font-size: 40px;
+}
+.gps,.teams,.back{
+    height:360px!important;
+    margin-top:40px;
+    width:350px;
+    background: #FFFFFF;
+
+}
+
+.gps{
+    margin-left:120px
+}
+.teams{
+    margin-left:50px
+}
+.back{
+    margin-left:-20px
+}
+
+
+.gps>p,.teams>p{
+   margin-top:20px 
+}
+.back>p{
+    margin-top: 20px;
+}
+
+
+
+
+.gps>div,.teams>div,.back>div{
+    background-color:rgba(50, 132, 233,0.08);
+    width:79px;
+    height:79px;
+    border-radius:50%;
+    margin-left:100px
+   
+}
+
+
+.gps>div>img,.teams>div>img,.back>div>img{
+    margin-left:40px;
+    margin-top:-20px
+}
+
+.gps>h3,.teams>h3,.back>h3{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+/* identical to box height, or 118% */
+
+text-align: center;
+letter-spacing: 0.1px;
+
+color: #000000;
+}
+
+@media(max-width:768px){
+    .quality-section{
+        height:1230px!important;
+    }
+    .gps,.teams,.back{
+        height:300px!important;
+        margin-top:40px;
+        width:300px;
+        background: #FFFFFF;
+        margin-left:20px
+    
+    }
+    .quality-section>h1{
+        font-size: 30px;
+        margin-right: 40px;
+    }
+}

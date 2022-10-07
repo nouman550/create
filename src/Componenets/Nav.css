@@ -1,0 +1,107 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    background-color: #F9FBFE;
+    height:80px;
+    padding-top:50px;
+   margin-top:0px
+}
+.menu>li>a{
+   margin-left:50px;
+   text-decoration: none;
+   border:none!important;
+   background: none!important;
+}
+.menu>li>a:active{
+    background: none;
+}
+
+.menu>li>a:hover{
+    color: #3284E9;
+}
+.home{
+    margin-right:100px;
+    margin-left:60px;
+    margin-top:-75px
+}
+
+.pricing-btn{
+    margin-top:-15px!important;
+   
+    color:white!important;
+    font-family: 'Noto Sans'!important;
+font-style: normal;
+font-weight: 700!important;
+font-size: 16px!important;
+line-height: 22px!important;
+width:150px;
+height:48px;
+margin-left:40px!important;
+
+}
+
+.pricing-btn:hover{
+background: linear-gradient(180deg, #3385EA 0%, #3081E6 100%)!important;
+}
+.header-logo{
+    top:20px;
+    left:-30px;
+    position: relative;
+}
+
+.header-logo-mobile{
+    top:35px;
+    left:-60px;
+    position: relative;
+}
+.toggle-btn{
+    top:-30px;
+    right:170px;
+    position: relative;
+}
+#price-btn{
+    background-color: #FF6E00!important;
+}
+#price-btn-mobile{
+    background-color: #FF6E00!important;
+    color:white;
+    margin-left:70px;
+    width:80px;
+    font-size: 8px!important;
+}
+.menu-mobile{
+    list-style: none;
+    margin-top:40px
+}
+
+.menu-mobile>li{
+    margin-right:160px;
+    margin-top:10px
+}
+
+.menu-mobile>li>a{
+    text-decoration: none;
+}
+
+
+
+
+@media(min-width:780px){
+    .toggle-btn{
+        display: none!important;
+    }
+    .mobile-nav{
+        display:none
+    }
+}
+
+@media(max-width:768px){
+   .menu{
+    display:none!important
+   }
+   
+}

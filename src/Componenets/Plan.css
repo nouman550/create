@@ -1,0 +1,481 @@
+.plan {
+    height: 2000px;
+    background-color: #FDFEFF !important;
+
+    margin-top: -70px
+}
+
+.plan>h1 {
+    margin-top: 120px;
+    position: relative;
+}
+
+.consult-pic {
+    margin-top: 30px;
+
+}
+
+.consult-head {
+    margin-top: 140px;
+    margin-right: 365px;
+
+}
+
+.individual {
+    margin-right: 85px
+}
+
+.anaylsis-tick {
+    margin-right: 540px;
+    top: 10px;
+    left: 30px;
+    position: relative;
+}
+
+.compain-tick {
+    margin-right: 540px;
+    top: -25px;
+    left: 30px;
+    position: relative;
+}
+
+.analysis-para {
+    top: -40px;
+    left: 10px;
+    position: relative;
+}
+
+.compain-para {
+    top: -80px;
+    left: 0px;
+    position: relative;
+}
+
+.initial-para {
+    margin-right: 160px
+}
+
+.budget-span {
+    margin-right: 240px
+}
+
+.consult-pic>img {
+    height: 400px;
+    width: 450px;
+    margin-top: 30px;
+    margin-left: 30px
+}
+
+.audience-head {
+    margin-top: -30px;
+    margin-right: 240px
+}
+
+.hunt-head {
+    margin-left: 80px
+}
+
+.audience-text>p {
+    margin-left: 110px
+}
+
+.target-span {
+    margin-left: 40px
+}
+
+.compain-span {
+    margin-right: 380px
+}
+
+.audience-pic>img {
+    height: 350px;
+    width: 450px;
+    margin-top: -200px;
+
+    margin-left: 120px
+}
+
+.first-stop {
+    width: 55px;
+    height: 55px;
+    background: #83BAFF;
+    border-radius: 50%;
+    margin-top: 90px;
+    margin-bottom: -150px
+}
+
+.consult-text {
+    border-left: 1.5px dashed #83BAFF;
+    margin-left: 30px;
+    height: 400px
+}
+
+.second-stop>h1,
+.third-stop>h1,
+.first-stop>h1,
+.fourth-stop>h1,
+.fifth-stop>h1 {
+    color: white;
+
+}
+
+.audience-pic {
+    border-left: 1.5px dashed #83BAFF;
+    margin-left: 30px;
+    height: 250px
+}
+
+.creative-pic>img {
+    width: 480px;
+    height: 400px;
+    margin-top: -120px
+}
+
+.design-head {
+    margin-top: -100px;
+    margin-right: 365px
+}
+
+.design-text>p,
+.artwork {
+    margin-left: 20px
+}
+
+.award-para {
+    margin-left: 30px
+}
+
+.proven-para {
+    margin-right: 250px
+}
+
+.fourth-stop,
+.fifth-stop,
+.third-stop,
+.second-stop {
+    height: 55px;
+    width: 55px;
+    background: #83BAFF;
+    border-radius: 50%;
+    margin-top: -25px
+}
+
+.design-text {
+    border-left: 1.5px dashed #83BAFF;
+    margin-left: 30px;
+    height: 450px
+}
+
+.print-head {
+    margin-top: -70px;
+    margin-right: 250px
+}
+
+.flyers-pic>img {
+    width: 470px;
+    height: 400px;
+    margin-top: -230px;
+    margin-left: 120px
+}
+
+.flyer-head {
+    margin-left: 175px
+}
+
+.print-text>p {
+    margin-left: 150px
+}
+
+.special-span {
+    margin-left: 20px
+}
+
+.appropriate {
+    margin-right: 30px
+}
+
+.appro-spans,
+.distri-span {
+    margin-right: 50px
+}
+
+.paper-span {
+    margin-right: 325px
+}
+
+.delivery-pic>img {
+    width: 450px;
+    height: 400px;
+    margin-top: -180px
+}
+
+.flyers-pic {
+    border-left: 1.5px dashed #83BAFF;
+    margin-left: 30px;
+    height: 350px
+}
+
+.delivery-head,
+.design-head,
+.print-head,
+.audience-head,
+.consult-head {
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #307EDE;
+}
+
+.delivery-head {
+    margin-top: -120px;
+    margin-right: 365px;
+}
+
+.delivery-counts {
+    margin-right: 25px
+}
+
+.delivery-text>p,
+.limit-span {
+    margin-left: 20px
+}
+
+.d2d-span {
+    margin-right: 180px
+}
+
+.small-circle {
+    height: 10px;
+    width: 10px;
+    background: #83BAFF;
+    border-radius: 50%;
+    right: 10px;
+    top: -5px;
+    position: relative;
+
+}
+
+.main-circle {
+    width: 100px;
+    border-top: 1.5px dashed #83BAFF;
+    margin-left: 590px;
+    top: 120px;
+    position: relative;
+
+}
+
+.main-circle3 {
+    width: 100px;
+    border-top: 1.5px dashed #83BAFF;
+    margin-left: 590px;
+    top: 30px;
+    position: relative;
+
+}
+
+.main-circle2 {
+    width: 100px;
+    border-top: 1.5px dashed #83BAFF;
+    left: 50px;
+    top: 30px;
+    position: relative;
+}
+
+.small-circle2 {
+    height: 10px;
+    width: 10px;
+    background: #83BAFF;
+    border-radius: 50%;
+    left: 90px;
+    top: -6px;
+    position: relative;
+}
+
+@media(max-width:768px) {
+    .plan {
+        height: 3300px;
+    }
+
+    .main-circle,
+    .small-circle,
+    .first-stop,
+    .second-stop,
+    .third-stop,
+    .fourth-stop,
+    .fifth-stop {
+        display: none !important
+    }
+
+    .consult-pic>img,
+    .audience-pic>img,
+    .creative-pic>img,
+    .flyers-pic>img,
+    .delivery-pic>img {
+        width: 250px;
+        height: 250px;
+        margin-left: 30px
+    }
+
+    .consult-head {
+        margin-top: 60px;
+    }
+
+    .individual,
+    .initial-para {
+        margin-right: 160px;
+        margin-left: -20px;
+        width: 300px
+    }
+
+    .anaylsis-tick,
+    .compain-tick {
+        left: -10px;
+        position: relative;
+    }
+
+    .analysis-para {
+        top: -40px;
+        left: 35px;
+        position: relative;
+        width: 250px;
+        height: 30px
+    }
+
+    .compain-para {
+
+        left: 35px !important;
+        position: relative;
+        width: 250px;
+        height: 30px
+    }
+
+    .audience-pic>img {
+        left: -33px;
+        position: relative;
+    }
+
+    .audience-text {
+        top: 300px;
+        left: -40px;
+        position: relative;
+    }
+
+    .hunt-head {
+        margin-left: 50px;
+        width: 300px
+    }
+
+    .audience-text>p {
+        width: 300px;
+        margin-left: 50px
+    }
+
+    .target-span {
+        margin-left: 50px
+    }
+
+    .compain-span {
+        margin-right: 80px
+    }
+
+    .audience-head {
+
+        left: 100px !important;
+        position: relative;
+    }
+
+    .creative-pic>img {
+        margin-top: 60px;
+        margin-left: -400px
+    }
+
+    .design-text {
+        margin-top: 140px
+    }
+
+    .design-head {
+        margin-left: 50px
+    }
+
+    .artwork {
+        left: -40px;
+        width: 300px;
+        position: relative;
+    }
+
+    .design-text>p {
+        width: 300px;
+        left: -40px;
+        position: relative;
+    }
+
+    .award-para {
+        margin-left: 30px
+    }
+
+    .proven-para {
+        margin-right: 50px
+    }
+
+    .main-circle2,
+    .main-circle,
+    .main-circle3,
+    .flyers-pic,
+    .design-text,
+    .audience-pic,
+    .consult-text {
+        border: none
+    }
+
+    .flyers-pic>img {
+        top: -330px;
+        left: -30px;
+        position: relative;
+    }
+
+    .print-text {
+        top: 140px;
+        position: relative;
+    }
+
+    .print-head {
+        margin-left: -30px
+    }
+
+    .flyer-head {
+        width: 300px;
+        right: 160px;
+        position: relative;
+    }
+
+    .print-text>p {
+        width: 300px;
+        right: 140px;
+        position: relative;
+    }
+    .paper-span {
+        margin-right: 200px
+    }
+    .delivery-pic>img{
+        margin-left:-350px
+    }
+    .delivery-text{
+        width:300px;
+        margin-top: 130px;
+    }
+    .delivery-head{
+        margin-left:50px
+    }
+    .plan>h1{
+        font-size: 30px;
+        margin-left: -33px;
+    }
+    .plan>p{
+        width:300px
+    }
+
+}

@@ -1,0 +1,604 @@
+.home-template {
+    height: 700px;
+    background-color: #F6F9FE !important;
+    margin-top: -20px
+}
+
+.delivery>h1 {
+    margin-top: 90px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 60px;
+    /* or 136% */
+
+
+    color: #1F1F1F;
+    margin-left: 25px
+}
+
+.delivery>p {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 35px;
+    /* identical to box height, or 159% */
+
+
+    color: #1F1F1F;
+}
+
+.group-img {
+    margin-top: 40px;
+    width: 500px;
+    height: 400px
+}
+
+.bold-span {
+    font-weight: bold;
+}
+
+.unique {
+    font-weight: bold;
+}
+
+.see-pricing {
+    background: #FF6E00 !important;
+    box-shadow: 0px 3px 30px rgba(255, 165, 96, 0.2);
+    border-radius: 5px;
+    width: 250px;
+    height: 57px;
+    color: white !important;
+
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+    margin-top: 20px !important;
+    margin-left: -340px !important
+}
+
+.see-pricing:hover {
+    background-color: #3284E9 !important;
+
+}
+
+.compain {
+    margin-left: -280px
+}
+
+.testimonal-img {
+    margin-top: -80px;
+    margin-left: -200px !important;
+}
+
+.home-template {
+    background: url('../Images/poly.png'), url('../Images/arrow-down.png'), url('../Images/elipse.png'), url('../Images/pol.png'), url('../Images/box-square.png');
+    background-repeat: no-repeat !important;
+    background-position: 600px 450px, 450px 500px, 350px 50px, 1300px 50px, 1100px 600px;
+
+}
+
+
+
+
+
+.home-logos {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(225, 222, 237, 0.25) !important;
+    border-radius: 15px !important;
+    width: 1200px !important;
+    height: 100px;
+    margin-left: 70px;
+    top: -50px;
+    position: relative;
+}
+
+.council>img {
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 30px
+}
+
+.kumon>img {
+    width: 200px;
+    height: 45px;
+    margin-top: 30px;
+    margin-right: -130px;
+}
+
+.ham>img {
+    width: 148px;
+    height: 45px;
+    margin-top: 30px;
+    margin-right: -200px
+}
+
+.fitness>img {
+    width: 200px;
+    height: 45px;
+    margin-top: 30px;
+    margin-right: -230px
+}
+
+.bricks>img {
+    width: 200px;
+    height: 45px;
+    margin-top: 30px;
+    margin-right: -320px
+}
+
+
+
+.home-trust {
+    height: 300px;
+    width: 100%
+}
+
+.business-home {
+    width: 30%
+}
+
+.business-home>h1 {
+    top: 35px;
+    position: relative;
+}
+
+.business-home>h3 {
+    margin-left: 200px;
+    top: -10px;
+    position: relative;
+}
+
+.business-logos {
+    width: 70%;
+    margin-left: 400px;
+    top: -210px;
+    position: relative;
+}
+
+.business-home>img {
+    top: 40px;
+    position: relative;
+}
+
+.metro,
+.forbes,
+.enter,
+.print {
+    background: #FFFFFF;
+    border: 1px solid #DCECFF;
+    border-radius: 15px;
+    width: 200px;
+    height: 70px;
+
+    box-sizing: border-box;
+    margin-top: 40px
+}
+
+.print {
+    margin-left: 30px
+}
+
+.enter {
+    margin-left: 20px
+}
+
+.forbes {
+    margin-left: 10px
+}
+
+.metro>img,
+.print>img,
+.enter>img,
+.forbes>img {
+    margin-top: 20px
+}
+
+.see-all {
+    font-family: 'Noto Sans' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    line-height: 27px !important;
+    text-decoration-line: underline !important;
+
+    color: #307EDE !important;
+    margin-left: -40px !important
+}
+
+.trusted {
+    margin-left: 110px
+}
+
+.business-home>img {
+    margin-right: 30px
+}
+
+.welcome {
+    height: 1200px
+}
+
+.welcome-pic>img {
+    width: 650px;
+    height: 500px
+}
+
+.welcome-text {
+    margin-top: 160px
+}
+
+.welcome-text>p {
+    margin-top: -70px;
+    margin-right: 80px;
+    line-height: 30px;
+}
+
+.welcome-text>img {
+    top: -100px;
+    margin-left: 80px;
+    position: relative;
+}
+
+.sale {
+    font-weight: 700 !important;
+}
+
+.welcome-text>h1 {
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 80px;
+    /* identical to box height, or 145% */
+
+    margin-right: 300px;
+    color: #000000;
+}
+
+.choose-pic>img {
+    width: 600px;
+    height: 500px;
+    margin-top: 130px
+}
+
+.choose-text>img {
+    top: -95px;
+    margin-left: 180px;
+    position: relative;
+}
+
+.question {
+    margin-left: 470px;
+    top: -210px;
+    position: relative;
+}
+
+.choose-text>h1 {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 80px;
+    /* identical to box height, or 145% */
+    color: #000000;
+    margin-top: 50px;
+    margin-right: 200px
+}
+
+.choose-text>p {
+    top: -230px;
+    position: relative;
+    margin-left: 50px;
+    line-height: 30px;
+}
+
+.qualities {
+    top: -170px;
+    position: relative;
+}
+
+.quality-pic-one {
+    margin-top: -30px;
+    margin-right: 80px
+}
+
+.quality-pic-two {
+    margin-top: -30px;
+    margin-right: 20px
+}
+
+.quality-pic-three {
+    margin-top: -30px;
+    margin-right: 95px
+}
+
+.quality-pic-four {
+    margin-top: -30px;
+    margin-right: 90px
+}
+
+.quality-pic-five {
+    margin-top: -30px;
+    margin-right: 130px
+}
+
+.quality-three,
+.quality-four,
+.quality-five,
+.quality-two,
+.quality-one {
+    margin-right: 450px;
+    margin-top: 10px
+}
+
+.leaflet {
+    margin-left: 20px
+}
+
+.industry-sapn {
+    margin-left: 30px
+}
+
+.client-span {
+    margin-left: 40px
+}
+
+.brand-span {
+    margin-left: -280px
+}
+
+.delivery-span {
+    margin-right: 250px
+}
+
+.unique-span {
+    margin-left: 10px
+}
+
+
+
+
+/* mobile responsiveness  */
+
+@media(max-width:768px) {
+    .home-template {
+        height: 650px
+    }
+
+    .delivery>h1 {
+        margin-top: 50px;
+        font-size: 25px;
+        line-height: 25px;
+        margin-right: 55px
+    }
+
+    .compain {
+        margin-left: -80px
+    }
+
+    .delivery>p {
+
+        font-size: 18px;
+        line-height: 25px;
+
+    }
+
+    .see-pricing {
+        width: 210px;
+        height: 50px;
+        color: white !important;
+        font-size: 16px !important;
+        line-height: 20px !important;
+        margin-top: 20px !important;
+        margin-left: -10px !important
+    }
+
+    .group-img {
+        margin-top: 40px;
+        width: 300px;
+        height: 200px
+    }
+
+    .testimonal-img {
+        margin-top: -50px;
+        margin-left: -40px !important;
+        width: 200px
+    }
+
+
+    .home-logos {
+
+        box-shadow: none !important;
+        height: 300px;
+        top: 10px;
+        position: relative;
+    }
+
+    .council>img {
+        width: 130px;
+        height: 50px;
+        margin-top: 60px;
+        margin-left: -50px
+    }
+
+    .kumon>img {
+        width: 130px;
+        height: 45px;
+        margin-top: 60px;
+        margin-left: 30px
+    }
+
+    .ham>img {
+        width: 138px;
+        height: 45px;
+        margin-top: 150px;
+        margin-left: -350px !important
+    }
+
+    .fitness>img {
+        width: 130px;
+        height: 45px;
+        margin-top: 150px;
+        margin-left: -90px
+    }
+
+    .bricks>img {
+        width: 130px;
+        height: 45px;
+        margin-top: 240px;
+        margin-left: -350px !important
+    }
+
+    .home-trust {
+        height: 900px;
+
+    }
+
+    .business-home {
+        width: 100%
+    }
+
+    .trusted {
+        margin-left: -10px
+    }
+
+    .business-home>h1 {
+        font-size: 20px;
+        margin-left: -30px
+    }
+
+    .business-home>h3 {
+        margin-left: 150px;
+    }
+
+    .business-home>img {
+        margin-left: -30px
+    }
+
+    .business-logos {
+        width: 100%;
+        margin-left:30px;
+        margin-top:260px
+    }
+    .business-logos>h3{
+      margin-right:90px
+    }
+    .enter,.forbes,.metro {
+        margin-left: 30px;
+        margin-top:13px;
+    }
+    .welcome {
+        height: 1900px
+    }
+.welcome-pic>img {
+    width: 300px;
+    height: 250px;
+   top:400px;
+   position: relative;
+}
+.welcome-text {
+    margin-top: 160px;
+    top:-450px;
+    position: relative;
+}
+.welcome-text>p {
+    margin-right: 130px;
+    line-height: 30px;
+}
+.welcome-text>img {
+    top: -100px;
+    margin-left: 80px;
+    position: relative;
+}
+.welcome-text>h1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 80px;
+    margin-right: 200px;
+    top:-10px;
+    position: relative;
+}
+.choose-pic>img {
+    width: 300px;
+    height: 250px;
+    margin-top: -300px
+}
+.choose-text>h1 {
+    font-size: 30px;
+    top: -150px;
+    position: relative;
+    
+    left:-40px
+}
+.choose-text>p {
+    top: -350px;
+    position: relative;
+    margin-left: 30px;
+    right:20px;
+    line-height: 30px;
+    width:300px
+}
+.choose-text>img {
+    top: -230px;
+    margin-left: 150px;
+    right:100px;
+    position: relative;
+    width:40px;
+    height:30px
+}
+
+.question {
+    margin-left: 300px;
+    top: -340px!important;
+    position: relative;
+}
+
+.qualities {
+    top: -300px;
+    position: relative;
+    width:350px
+}
+
+.quality-pic-one {
+    margin-top: -30px;
+    margin-left: 50px;
+}
+
+.quality-pic-two {
+    margin-top: -30px;
+    margin-left: 40px;
+}
+
+.quality-pic-three {
+    margin-top: -30px;
+    margin-left: 50px;
+}
+
+.quality-pic-four {
+    margin-top: -30px;
+    margin-left: 30px;
+}
+
+.quality-pic-five {
+    margin-top: -30px;
+    margin-left: 50px;
+}
+
+.quality-three,
+.quality-four,
+.quality-five,
+.quality-two,
+.quality-one {
+    margin-right: 290px;
+    margin-top: 10px;
+    width:20px;
+    height:20px
+}
+
+
+}

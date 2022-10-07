@@ -1,0 +1,62 @@
+.pro-section{
+    background: linear-gradient(180deg, #3385EA 0%, #3081E6 100%);
+    border: 1px solid #3285EA;
+     box-shadow: 0px 3px 30px rgba(52, 134, 235, 0.22);
+     border-radius: 8px!important;
+    height:300px;
+    width:1200px;
+    box-sizing: border-box;
+    margin-left:60px
+}
+.competitive>h1{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 143.1%;
+/* or 57px */
+color: #FFFFFF;
+margin-top: 80px;
+}
+.competitive>h1>span{
+    margin-left:-150px
+}
+.price{
+    background-color: #FF6E00!important;
+border-radius: 5px!important;
+height:50px;
+width:160px;
+color:white!important;
+margin-right:300px!important;
+margin-top:20px!important
+}
+.price:hover{
+    background-color:white!important ;
+    color:#3081E6!important
+}
+.pro>img{
+    margin-top:-20px
+}
+
+@media(max-width:780px){
+    .pro-section{
+        height:650px;
+        margin-left: 0px;
+    }
+    .competitive>h1{
+        width:300px;
+        margin-left:20px
+    }
+    .competitive>h1>span{
+        margin-left:-10px
+    }
+    .price{
+        margin-left:80px!important
+    }
+    .pro>img{
+        width:300px;
+        height:200px;
+        margin-right:390px!important;
+        margin-top:50px
+    }
+}
